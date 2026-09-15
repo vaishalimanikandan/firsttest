@@ -46,3 +46,5 @@ Your resume presents you particularly strongly as a Technical Writer specializin
 Cisco networking + CML + EST + Git/GitHub + Markdown + structured documentation + aviation technical documentation.
 
 For your current Cisco-focused career, the EST and CML experience should be the strongest selling points, because they directly demonstrate networking-product documentation experience.
+
+I have compelted my B.E 
