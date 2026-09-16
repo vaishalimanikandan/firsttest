@@ -9,7 +9,7 @@ Cisco / TEKsystems – Technical Writer | 2021–2025
 
 Worked on Cisco networking products, with two major projects:
 
-EST (E-Service Training)
+EST (E-Service Training):
 
 Created training modules, service instructions, installation, configuration, troubleshooting, and service guides.
 Worked with SMEs, engineers, and product managers.
